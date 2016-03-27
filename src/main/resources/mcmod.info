@@ -1,0 +1,16 @@
+[
+{
+  "modid": "emcsorter",
+  "name": "EMC Sorter",
+  "description": "Chest that only accepts items with EMC value.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thegreatunclean"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
